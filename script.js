@@ -1,3 +1,3 @@
-document.getElementById('learn-more').addEventListener('click', function() {
-    window.location.href = '#about';
+document.querySelector(".menu-toggle").addEventListener("click", function () {
+    document.querySelector(".nav-links").classList.toggle("active");
 });
