@@ -127,7 +127,7 @@ footer {
 }
 
 .button:hover {
-    background: #a15d3d;
+    background: #606C38;
 }
 
 .card {
@@ -157,7 +157,7 @@ footer {
         top: 60px;
         left: 0;
         width: 100%;
-        background: #612412;
+        background: #283618;
         padding: 15px 0;
         text-align: center;
     }
