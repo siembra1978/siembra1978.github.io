@@ -9,8 +9,8 @@ html, body {
     display: flex;
     flex-direction: column;
     font-family: 'Poppins', sans-serif;
-    color: #a15d3d;
-    background-color: #fdfaf6;
+    color: #606C38;
+    background-color: #FEFAE0;
 }
 
 .container {
@@ -20,7 +20,7 @@ html, body {
 }
 
 .navbar {
-    background: #612412;
+    background: #283618;
     color: white;
     padding: 15px 20px;
     display: flex;
@@ -57,7 +57,7 @@ html, body {
 }
 
 .nav-links a:hover {
-    background: #a15d3d;
+    background: #606C38;
     border-radius: 5px;
 }
 
@@ -92,7 +92,7 @@ main {
 }
 
 footer {
-    background: #612412;
+    background: #283618;
     color: white;
     text-align: center;
     padding: 20px;
@@ -102,7 +102,7 @@ footer {
 .button {
     display: inline-block;
     padding: 12px 24px;
-    background: #612412;
+    background: #283618;
     color: white;
     border: none;
     border-radius: 5px;
@@ -114,7 +114,7 @@ footer {
 
 .play {
     display: inline-block;
-    background-color: #4CAF50;
+    background-color: #606C38;
     color: white;
     padding: 10px 30px;
     text-align: center;
@@ -132,15 +132,15 @@ footer {
 
 .card {
     display: block;
-    background: #fdfaf6;
+    background: #FEFAE0;
     padding: 20px;
     border-radius: 8px;
     text-align: center;
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
-    color: #612412;
-    border: 2px solid #612412;
+    color: #606C38;
+    border: 2px solid #606C38;
     transition: background 0.3s;
     margin-bottom: 15px;
 }
